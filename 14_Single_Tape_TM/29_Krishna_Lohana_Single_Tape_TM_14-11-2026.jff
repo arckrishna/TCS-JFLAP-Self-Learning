@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <structure>
-	<type>turing</type>
+	<type>turing</type>\n\t<tapes>1</tapes>
 	<automaton>
 		<!--The list of states.-->
 		<state id="0" name="q_scan">
