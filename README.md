@@ -7,7 +7,7 @@
 **Department:** Department of Computer Engineering  
 **Institution:** Vivekanand Education Society's Institute of Technology (VESIT)  
 **Faculty In-Charge:** Mr. Sanjay Mirchandani  
-**Academic Submission Date:** 14 November 2026 (14-11-2026)  
+
 
 ---
 
